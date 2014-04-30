@@ -1,29 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://th4w.github.io/atom.xml" rel="self"/>
-  <link href="http://th4w.github.io/"/>
-  <updated>2014-04-28T02:24:34+02:00</updated>
-  <id>http://th4w.github.io/</id>
+  <title><![CDATA[std::future blog]]></title>
+  <link href="http://std-future.github.io/atom.xml" rel="self"/>
+  <link href="http://std-future.github.io/"/>
+  <updated>2014-05-01T00:35:31+02:00</updated>
+  <id>http://std-future.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[thaw - David G.]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://th4w.github.io/blog/2014/04/28/test/"/>
-    <updated>2014-04-28T02:15:48+02:00</updated>
-    <id>http://th4w.github.io/blog/2014/04/28/test</id>
-    <content type="html"><![CDATA[<p>hi</p>
-
-<p>this is a test</p>
-
-<p>end</p>
-]]></content>
-  </entry>
   
 </feed>

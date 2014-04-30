@@ -1,19 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://th4w.github.io/blog/2014/04/28/test/</loc>
-        <lastmod>2014-04-28T02:22:27+02:00</lastmod>
+        <loc>http://std-future.github.io/archives/</loc>
+        <lastmod>2014-05-01T00:34:08+02:00</lastmod>
     </url>
     <url>
-        <loc>http://th4w.github.io/robots.txt</loc>
+        <loc>http://std-future.github.io/robots.txt</loc>
         <lastmod>2014-04-28T00:57:14+02:00</lastmod>
     </url>
     <url>
-        <loc>http://th4w.github.io/blog/archives/</loc>
-        <lastmod>2014-04-28T02:22:27+02:00</lastmod>
+        <loc>http://std-future.github.io/blog/archives/</loc>
+        <lastmod>2014-05-01T00:34:08+02:00</lastmod>
     </url>
     <url>
-        <loc>http://th4w.github.io/</loc>
-        <lastmod>2014-04-28T02:22:27+02:00</lastmod>
+        <loc>http://std-future.github.io/</loc>
+        <lastmod>2014-05-01T00:34:08+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://std-future.github.io/about/</loc>
+        <lastmod>2014-05-01T00:34:08+02:00</lastmod>
     </url>
 </urlset>

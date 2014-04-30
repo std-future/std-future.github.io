@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://th4w.github.io/sitemap.xml 
+Sitemap: http://std-future.github.io/sitemap.xml 
